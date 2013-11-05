@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class AireTest {
 
+	
 	@Test
 	public void testCatetoMayorTrianguloRectangulo() {
 		float catetoMenor = 1;
