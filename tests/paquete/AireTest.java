@@ -1,22 +1,11 @@
 package paquete;
 
 import static org.junit.Assert.*;
-import static org.mockito.Mockito.*;
-import static org.powermock.api.easymock.PowerMock.*;
-import static org.easymock.EasyMock.expect;
-//import static org.easymock.internal.ClassExtensionHelper.*;
 
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.mockito.MockSettings;
-import org.mockito.Mockito;
-import org.powermock.api.easymock.*;
-import org.powermock.api.mockito.PowerMockito;
-import org.powermock.core.classloader.annotations.PrepareForTest;
-import org.easymock.EasyMockSupport;
 
 public class AireTest {
 	Aire a;
