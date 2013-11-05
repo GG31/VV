@@ -47,6 +47,7 @@ public class AireTest {
 		assertTrue(a.areaTrianguloRectangulo(catetoMenor, catetoMayor) == salidaEsperada);
 	}
 
+	
 	@Test
 	public void testAreaTrianguloEquilatero() {
 		float lado = 2;
