@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AireTest" project="Practica" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="paquete.AireTest" time="0.005">
-    <testcase name="testAreaEstrella" classname="paquete.AireTest" time="0.002"/>
-    <testcase name="testAreaTrianguloEquilatero" classname="paquete.AireTest" time="0.001"/>
-    <testcase name="testAreaCuadrado" classname="paquete.AireTest" time="0.0"/>
-    <testcase name="testAreaTrianguloRectangulo" classname="paquete.AireTest" time="0.001"/>
-    <testcase name="testCatetoMayorTrianguloRectangulo" classname="paquete.AireTest" time="0.001"/>
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AireStaticTest" project="Practica" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="paquete.AireStaticTest" time="0.092">
+    <testcase name="testAreaCuadrado" classname="paquete.AireStaticTest" time="0.051"/>
+    <testcase name="testAreaEstrella" classname="paquete.AireStaticTest" time="0.027"/>
+    <testcase name="testAreaTrianguloEquilatero" classname="paquete.AireStaticTest" time="0.005"/>
+    <testcase name="testCatetoMayorTrianguloRectangulo" classname="paquete.AireStaticTest" time="0.004"/>
+    <testcase name="testAreaTrianguloRectangulo" classname="paquete.AireStaticTest" time="0.005"/>
   </testsuite>
 </testrun>
